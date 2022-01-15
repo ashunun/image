@@ -3,7 +3,7 @@
 $img_array = glob("img/*.{gif,jpg,png}",GLOB_BRACE); 
  
 //Domain Setting
-$domain = 'ashunun.github.io/image/';
+$domain = 'ashunun.github.io/image/index.php/';
  
 //Pick a random image from the array 
 $img = array_rand($img_array); 
